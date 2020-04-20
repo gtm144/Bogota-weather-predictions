@@ -1,6 +1,6 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
  <Folder>
-  <name>1399BOG-Intensity (Horizontal)-Sun Apr 19 22:44:11 2020 GMT</name>
+  <name>1399BOG-Intensity (Horizontal)-Mon Apr 20 13:07:58 2020 GMT</name>
   <ExtendedData xmlns:edge="http://eecradar.com">
    <edge:Moment>Intensity (Horizontal)</edge:Moment>
    <edge:MomentAbbreviation>ZH</edge:MomentAbbreviation>
@@ -11,7 +11,7 @@
   </lookAt>
   <GroundOverlay>
    <Icon>
-    <href>1399BOG_ZH_1587336251_1587336315.png</href>
+    <href>1399BOG_ZH_1587388078_1587388143.png</href>
    </Icon>
    <LatLonBox>
     <north>5.217750127612162</north>
