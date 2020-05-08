@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\gtm14\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.pythonPath": "C:\\Users\\gtm14\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
     "python.dataScience.jupyterCommandLineArguments": [],
     "python.dataScience.jupyterServerURI": " http://localhost:8888/tree?token=aa35ca8ad7af8e3beb544f6b1a6636e2ce9f7d9350441026"
 }
